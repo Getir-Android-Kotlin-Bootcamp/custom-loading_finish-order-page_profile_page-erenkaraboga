@@ -8,4 +8,10 @@
     </style>
 
     <style name="Theme.FoodCouriers" parent="Base.Theme.FoodCouriers" />
+
+    <style name="button_finish_order_skip_style"  parent="Widget.Material3.Button">
+        <item name="android:textColor">@color/primary_color</item>
+        <item name="android:background">@color/white</item>
+        <item name="backgroundTint">@null</item>
+    </style>
 </resources>
