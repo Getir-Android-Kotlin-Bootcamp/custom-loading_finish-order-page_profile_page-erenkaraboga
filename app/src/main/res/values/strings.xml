@@ -6,5 +6,9 @@
     <string name="create_account">Create Account</string>
     <string name="login">Login</string>
     <string name="hello_blank_fragment">hello_blank_fragment</string>
+    <string name="thank_you_norder_completed">Thank You!\nOrder Completed</string>
+    <string name="please_rate_your_last_driver">Please rate your last Driver</string>
+    <string name="leave_feedback">Leave Feedback</string>
+    <string name="submit">Submit</string>
 
 </resources>
