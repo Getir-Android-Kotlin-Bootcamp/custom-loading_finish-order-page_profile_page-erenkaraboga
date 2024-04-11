@@ -10,5 +10,16 @@
     <string name="please_rate_your_last_driver">Please rate your last Driver</string>
     <string name="leave_feedback">Leave Feedback</string>
     <string name="submit">Submit</string>
+    <string name="profile">Profile</string>
+    <string name="personal_info">Personal Info</string>
+    <string name="your_name">Your Name</string>
+    <string name="occupation">Occupation</string>
+    <string name="manager">Manager</string>
+    <string name="employer">Employer</string>
+    <string name="nigeria">Nigeria</string>
+    <string name="contact_info">Contact Info</string>
+    <string name="phone_number">Phone number</string>
+    <string name="email">Email</string>
+    <string name="edit">Edit</string>
 
 </resources>
